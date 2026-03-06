@@ -1,0 +1,5 @@
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+result/Hand_Gesture_Full_Evaluation.pdf
