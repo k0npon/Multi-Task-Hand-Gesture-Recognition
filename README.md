@@ -1,4 +1,4 @@
-# COMP0248 CW1: Multi-Task Hand Gesture Recognition
+# Multi-Task Hand Gesture Recognition
 
 ## Overview
 Multi-task deep learning model for simultaneous hand gesture classification, detection, and segmentation from RGB-D data.
